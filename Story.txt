@@ -27,3 +27,4 @@ I'm sleepy now
 
 This is supposed to be my homework
 This branch will be called V2
+I should've called the school branch V1
