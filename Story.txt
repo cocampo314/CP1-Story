@@ -28,3 +28,6 @@ I'm sleepy now
 This is supposed to be my homework
 This branch will be called V2
 I should've called the school branch V1
+
+Actually I wish I could've changed the master branch to alpha, school to beta, and V2 to charlie
+Oh well, this one will be delta
